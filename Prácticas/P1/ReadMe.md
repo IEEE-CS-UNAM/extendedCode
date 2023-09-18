@@ -8,9 +8,11 @@ El objetivo de esta tarea es que aprendas las nociones básicas de GitHub, inclu
 
 ## 1. Bifurcar (*fork*) el Repositorio Principal
 
-1. Abre tu navegador web y ve al repositorio de ejemplo que hemos proporcionado para esta tarea: [Repositorio de Ejemplo](https://github.com/ejemplo/repositorio).
+1. Abre tu navegador y ve al repositorio al repositorio `IEEE-CS-UNAM/extendedCode` que estamos utilizando para el proyecto: [Repositorio Actual](https://github.com/IEEE-CS-UNAM).
 
 2. En la esquina superior derecha de la página del repositorio, haz clic en el botón "Fork" (Bifurcar). Esto creará una copia del repositorio en tu propia cuenta de GitHub.
+
+Esto bifucará que nos podrá dar una copia del repositorio. Bifurcar un repositorio le permite experimentar libremente con los cambios sin afectar el proyecto original.
 
 ## 2. Clonar el Repositorio
 
