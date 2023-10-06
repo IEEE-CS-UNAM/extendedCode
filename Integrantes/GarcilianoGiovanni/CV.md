@@ -1,38 +1,37 @@
 # _Curriculum vitae_
 
 * 🧑 Giovanni Alfredo Garciliano Díaz
-* ☎️ +52 993 168 01 65
 * 📧 rapunzel@disroot.org
 * 📍 Coyoacán, CDMX
 * 🌐 https://www.campanita.xyz
 
 ## Formación académica
 <dl>
-<dt style="font-weight: bold">2020-</dt>
+<dt>2020-</dt>
 <dd>Universidad Nacional Autónoma de México</dd>
-<dd style="font-style: italic">Ingeniería en computación</dd>
-<dt style="font-weight: bold">2016-2019</dt>
+<dd><i>Ingeniería en computación</i></dd>
+<dt>2016-2019</dt>
 <dd>Centro de Bachillerato Tecnológico Industral y de Servicios No. 163</dd>
-<dd style="font-style: italic">Bachillerato + carrera técnica en Soporte y mantenimiento de equipos de cómputo</dd>
-<dt style="font-weight: bold">junio-noviembre 2022</dt>
+<dd><i>Bachillerato + carrera técnica en Soporte y mantenimiento de equipos de cómputo</i></dd>
+<dt>junio-noviembre 2022</dt>
 <dd>PumaHat Cybersecurity Team</dd>
-<dd style="font-style: italic">Curso de ciberseguridad: OSINT, pentesting, escalamiento de privilegios (Windows y Linux), ataques web, explotación binaria, introducción a cómputo forense, introducción a Active Directory</dd>
+<dd><i>Curso de ciberseguridad: OSINT, pentesting, escalamiento de privilegios (Windows y Linux), ataques web, explotación binaria, introducción a cómputo forense, introducción a Active Directory</i></dd>
 </dl>
 
 ## Experiencia profesional
 <dl>
-<dt style="font-weight: bold">febrero-junio 2020</dt>
+<dt>febrero-junio 2020</dt>
 <dd>Instituto Estatal de Cultura (Tabasco)</dd>
-<dd style="font-style: italic">Servicio social</dd>
+<dd><i>Servicio social</i></dd>
 <dd><ul>
 <li>Ayudante de contabilidad</li>
 <li>Captura de datos</li>
 <li>Apoyo en área informática</li>
 <li>Capacitación a empleados de Recursos Humanos</li>
 </ul></dd>
-<dt style="font-weight: bold">julio-agosto 2022</dt>
+<dt>julio-agosto 2022</dt>
 <dd>BBVA México</dd>
-<dd style="font-style: italic">Becario</dd>
+<dd><i>Becario</i></dd>
 <dd><ul>
 <li>Ayudante en área de Ingeniería</li>
 <li>Proyecto ﬁnal: desarrollo de un dashboard conﬁgurable desde archivos JSON generados por Kibana</li>
